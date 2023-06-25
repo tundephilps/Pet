@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-shape-divider-top-1687626123 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  z-index: -1;
+}
+
+.custom-shape-divider-top-1687626123 svg {
+  position: relative;
+  display: block;
+  width: calc(296% + 1.3px);
+  height: 500px;
+}
+
+.custom-shape-divider-top-1687626123 .shape-fill {
+  fill: rgb(147 51 234);
+  background-color: rgb(147 51 234 / var(--tw-bg-opacity));
+}
